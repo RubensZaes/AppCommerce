@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AppCommerce</string>
+
+    <!--String Tela Principal-->
+    <string name="title_categorias_populares">Categorias Populares</string>
+    <string name="title_produtos_recentes">Produtos Recentes</string>
 </resources>
